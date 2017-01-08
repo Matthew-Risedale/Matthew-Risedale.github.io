@@ -750,7 +750,8 @@ ul {
     .upper-line__phone {
       width: 50%; }
     .upper-line__repair-status {
-      width: 20%; } }
+      width: 20%;
+      display: block;} }
 
 .repair-status a {
   color: #fff;
